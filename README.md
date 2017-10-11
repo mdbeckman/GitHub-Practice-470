@@ -19,7 +19,7 @@ Assignment (10 pts):
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/SRTL-10/>   |  
 | Matt Beckman (class demo) | mdbeckman | <https://mdbeckman.github.io/Repo-Demo/> |
-| Laura Fritz |laurabethfritz  |https://laurabethfritz.github.io/repodemo/  |
+| Laura Fritz |laurabethfritz  |<https://laurabethfritz.github.io/repodemo/>  |
 | Shanglun Li | ShanglunLi | https://shanglunli.github.io/Repo-Demo/ |
 | Chase Rosendale | theace0296 | https://theace0296.github.io/Rosendale/ |
 | Hanna Gilson | hsgilson | <https://hsgilson.github.io/Demo-470/> |
