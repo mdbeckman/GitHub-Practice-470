@@ -19,5 +19,5 @@ Assignment (10 pts):
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/SRTL-10/>   |  
 | Matt Beckman (class demo) | mdbeckman | <https://mdbeckman.github.io/Repo-Demo/> |
-|  |  |  |
+| Chase Rosendale | theace0296 | https://theace0296.github.io/Rosendale/ |
 
