@@ -19,5 +19,5 @@ Assignment (10 pts):
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/SRTL-10/>   |  
 | Matt Beckman (class demo) | mdbeckman | <https://mdbeckman.github.io/Repo-Demo/> |
-|  |  |  |
+| Shanglun Li | ShanglunLi | https://shanglunli.github.io/Repo-Demo/ |
 
