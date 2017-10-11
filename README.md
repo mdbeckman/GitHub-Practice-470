@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# GitHub Pages Assignment
 
-You can use the [editor on GitHub](https://github.com/mdbeckman/GitHub-Practice-470/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Assignment (10 pts):
+- Create your own GitHub profile/ID (appropriate to share with employers or grad schools)
+- Create a new repo & initialize it with a "readme" (you can create the readme afterward if needed)
+- Turn it into a website ([repo] >> settings >> [scroll to bottom] >> create website from master branch >> choose a style >> (note the website url)... add content if you like, but it's fine to just use the filler content provided.
+- add a row in the table below with your info
+    - first & last name (2 pts)
+    - github id (2 pts)
+    - website url (2 pts)
+    - commit your changes with a descriptive commit message (e.g. "added Matt Beckmans info to table"; 2 pts)
+    - check that it works (2 pts)
+    - pat yourself on the back (not graded)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|Name                   |GitHub ID         |website for a GitHub repo  |  
+|:----------------------|:-----------------|:--------------------------|  
+| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/SRTL-10/>   |  
+|  |  |
+|  |  |
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdbeckman/GitHub-Practice-470/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
