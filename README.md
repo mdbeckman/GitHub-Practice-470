@@ -28,3 +28,4 @@ Assignment (10 pts):
 | Hanna Gilson | hsgilson | <https://hsgilson.github.io/Demo-470/> |
 | Ryan Williams | WilliamsRK | <https://ryw5180.github.io/WebPageStat470/>|
 | Ruizhi Qiao | ruizhi-qiao | https://github.com/Ruizhi-Qiao/STAT470-police |
+| Xin Sun | xzs5118 | <https://xzs5118.github.io/Repo_D/> |
