@@ -33,3 +33,4 @@ Assignment (10 pts):
 | Qinyue Li | qinyueli| <https://qinyueli.github.io/stat470/>|
 | Lei Wang | elaine311|<https://github.com/Elaine311/repo-demo/>|
 | Xuhui Jin | xuhuijinn | <https://xuhuijinn.github.io/repo/>|
+| Kanchan Sayers | KanchanSayers | <https://github.com/KanchanSayers/Repository-Demo> |
