@@ -18,7 +18,7 @@ Assignment (10 pts):
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
-| Matt Beckman (class demo) | mdbeckman | <https://mdbeckman.github.io/Repo-Demo/> |
+| Matt Beckman (demo) | mdbeckman | <https://mdbeckman.github.io/Repo-Demo/> |
 | Laura Fritz |laurabethfritz  |<https://laurabethfritz.github.io/repodemo/>  |
 | Shanglun Li | ShanglunLi | https://shanglunli.github.io/Repo-Demo/ |
 | Chase Rosendale | theace0296 | <https://theace0296.github.io/Rosendale/> |
