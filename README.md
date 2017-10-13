@@ -33,6 +33,7 @@ Assignment (10 pts):
 | Qinyue Li | qinyueli| <https://qinyueli.github.io/stat470/>|
 | Lei Wang | elaine311|<https://github.com/Elaine311/repo-demo/>|
 | Xuhui Jin | xuhuijinn | <https://xuhuijinn.github.io/repo/>|
+| Kanchan Sayers | KanchanSayers | <https://github.com/KanchanSayers/Repository-Demo> |
 | Andie Evans | andieevans2 | <https://andieevans2.github.io/repodemo/> |
 | Daniel Jang | danjang123 | <https://danjang123.github.io/Repo-Demo/> |
 | Caihui Xiao | cqx5037 | <https://cqx5037.github.io/repo_domo_-/>|
