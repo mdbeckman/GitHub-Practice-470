@@ -21,6 +21,6 @@ Assignment (10 pts):
 | Matt Beckman (class demo) | mdbeckman | <https://mdbeckman.github.io/Repo-Demo/> |
 | Laura Fritz |laurabethfritz  |<https://laurabethfritz.github.io/repodemo/>  |
 | Shanglun Li | ShanglunLi | https://shanglunli.github.io/Repo-Demo/ |
-| Chase Rosendale | theace0296 | https://theace0296.github.io/Rosendale/ |
+| Chase Rosendale | theace0296 | <https://theace0296.github.io/Rosendale/> |
 | Hanna Gilson | hsgilson | <https://hsgilson.github.io/Demo-470/> |
 | Ruizhi Qiao | ruizhi-qiao | https://github.com/Ruizhi-Qiao/STAT470-police |
