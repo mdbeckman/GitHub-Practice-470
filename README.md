@@ -10,8 +10,9 @@ Assignment (10 pts):
     - (2 pts) your repo website url (2 pts)
     - (2 pts) commit your changes and submit pull request (2pts)  
             - write a **descriptive** commit message (e.g. "added Matt Beckmans info to table")  
-            - select "Create a new branch for this commit and start a pull request."  
-            - click green button "Propose file change" & start pull request  
+            - click green button "Propose file change"
+            - click green button "create pull request"    
+            - click green button "create pull request" (again on next page)  
     - (1 pt) the link works (wrap url in "<" and ">" to activate link)  
     - pat yourself on the back (ungraded)  
 
