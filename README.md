@@ -31,4 +31,4 @@ Assignment (10 pts):
 | Xin Sun | xzs5118 | <https://xzs5118.github.io/Repo_D/> |
 | Rachel Liu    |  rachelizz  | https://github.com/rachelizz/repo-demo   |
 | Qinyue Li | qinyueli| <https://qinyueli.github.io/stat470/>|
-| Michael Cherry | MCherry4896 | <https://mcherry4896.github.io/repo_example/> |
+| Xuhui Jin | xuhuijinn | <https://xuhuijinn.github.io/repo/>|
