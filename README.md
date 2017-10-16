@@ -42,3 +42,7 @@ Assignment (10 pts):
 | Caihui Xiao | cqx5037 | <https://cqx5037.github.io/repo_domo_-/>|
 | Kiera Murphy | kmurphy620 | <https://github.com/kmurphy620/Repo-demo> |
 | Abby Koenig | abbykaynig | <https://github.com/abbykaynig/Repo_Demo> |
+| Briana Schumacher | brianashoee | <https://brianashoee.github.io/github-assignment/> |
+| Inger Wang | ingerwang | <https://ingerwang.github.io/Repo-Demo/> |
+| Neena Doshi | neenadoshi | <https://neenadoshi.github.io/GitHub-Practice-470/> |
+| Zifan Chen | chenzifan1995 | https://github.com/chenzifan1995/repo/edit/master/README.md|
