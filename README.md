@@ -47,3 +47,4 @@ Assignment (10 pts):
 | Inger Wang | ingerwang | <https://ingerwang.github.io/Repo-Demo/> |
 | Neena Doshi | neenadoshi | <https://neenadoshi.github.io/GitHub-Practice-470/> |
 | Zifan Chen | chenzifan1995 | https://github.com/chenzifan1995/repo/edit/master/README.md|
+| James Benstead | jbenstead33 | <https://github.com/jbenstead33/Repo-Demo> |
